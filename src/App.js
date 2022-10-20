@@ -1,10 +1,11 @@
 import './App.css';
+import Form from "./Component/Form.jsx"
 
 function App() {
   return (
-    <div className="App">
-      App component
-    </div>
+    <>
+      <Form></Form>
+    </>
   );
 }
 

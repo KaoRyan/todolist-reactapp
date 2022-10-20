@@ -1,0 +1,21 @@
+.todolist {
+    margin: 50px 0;
+}
+
+.todolist__item {
+    display: inline-block;
+}
+
+.todolist__item div{    
+    display: inline-block;
+}
+
+.todolist__item div:first-of-type {    
+    width: 80%;
+    text-align: left;
+}
+
+.todolist__item div:last-of-type {
+    width: 20%;
+    text-align: right;
+}
