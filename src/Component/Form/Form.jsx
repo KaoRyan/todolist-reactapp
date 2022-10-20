@@ -9,7 +9,7 @@ export default class Form extends Component {
 
         this.state = {
             inputData: "",
-            todoItems: ["Do Exercise", "Learn Ract."],
+            todoItems: ["Do Exercise", "Learn React."],
         }
     }
 
