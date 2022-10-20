@@ -1,5 +1,6 @@
 {
   "name": "todolist-reactapp",
+  "homepage": "https://kaoryan.github.io/todolist-reactapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
